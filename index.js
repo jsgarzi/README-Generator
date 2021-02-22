@@ -40,7 +40,7 @@ const questionArr = [
     message:"What command is used to run testing?"    
 },
 {
-    name:"contribuation",
+    name:"contribution",
     type: "input",
     message:"What can other users do to help contribute to the project?"    
 },
